@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "revision": 0,
+  "generatedAtUtc": "2026-07-31T00:00:00Z",
+  "payload": {
+    "minimumVersion": "0.0.0",
+    "latestVersion": "0.0.0",
+    "installerUrl": "",
+    "installerSha256": "",
+    "users": {}
+  },
+  "signature": ""
+}
