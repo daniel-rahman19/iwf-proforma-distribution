@@ -1,13 +1,7 @@
 {
-  "schemaVersion": 1,
-  "revision": 0,
-  "generatedAtUtc": "2026-07-31T00:00:00Z",
-  "payload": {
-    "minimumVersion": "0.0.0",
-    "latestVersion": "0.0.0",
-    "installerUrl": "",
-    "installerSha256": "",
-    "users": {}
-  },
-  "signature": ""
+  "format": "IWF-CONTROL-MANIFEST",
+  "keyId": "IWF-OFFLINE-2026-01",
+  "algorithm": "RSA-PSS-SHA256",
+  "payloadBase64": "eyJzY2hlbWFWZXJzaW9uIjoiMS4wIiwicmV2aXNpb24iOjEsImdlbmVyYXRlZEF0VXRjIjoiMjAyNi0wOC0wM1QwNzo1NTowOS41MzAxOTM1KzAwOjAwIiwibWluaW11bVZlcnNpb24iOiIwLjQuMiIsImxhdGVzdFZlcnNpb24iOiIwLjQuMiIsImluc3RhbGxlclVybCI6Imh0dHBzOi8vZ2l0aHViLmNvbS9kYW5pZWwtcmFobWFuMTkvaXdmLXByb2Zvcm1hLWRpc3RyaWJ1dGlvbi9yZWxlYXNlcy9sYXRlc3QvZG93bmxvYWQvSVdGLVByb2Zvcm1hLVNldHVwLmV4ZSIsImluc3RhbGxlclNoYTI1NiI6IiIsIm9mZmxpbmVHcmFjZUhvdXJzIjo0LCJ1c2VycyI6W119",
+  "signatureBase64": "gQougpbq3cVlEW47hhPFXA\u002B8Dsq4EAYr1JeMsPMGRvL\u002BUxRmVFePYsc5vtfQFk8xzuGEGxzJEe9cE0Tj9SWQlL7MIBV\u002BYXuEi5q0JEuxvVOAZzUAnrQyT\u002BMnaKsdV7qb1mLgEHBrhovxVwa1F7yvFUhjcFBPWzyOWzirRQ9H\u002BfN6A/VN2mEPEXPgWxYI0rInKB0DrcGejVdICW6s32PYR10R8I5qgaIjlefMDby9idmpXB8\u002BNcF5Giu1sEPi4ApeFxQmITyXCo\u002BmNIQKhWzveL4/vjg4\u002BHk78YVfjVjwp7dnHVCedrZqV6oG6wKRMhtPryZ\u002BJpyugrfS7aBKxL05C/\u002BiM01MbP\u002BfkktHgpWBBqvL6a6mpzCfHJomcCSbDf9cnneEJOiQ9BSBX7IaXUG/kRVq\u002Bksl4SJRd7DROICG3pxoI3LSVBFSfn/zHyjQY4SfnuvM2\u002BrbsgPs1FgNhMVCgmWsNiLL1SufT9yOLlrPD/TffEX5TgKT9v3EJNVa9z4H"
 }
